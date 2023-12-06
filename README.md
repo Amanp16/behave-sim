@@ -1,5 +1,3 @@
-# InterIITAdobe
-Repository for the mid-prep event: Adobe Behavior Simulation Challenge 
 
 ## Background
 Timely and targeted content generation is essential to yield desired marketing results for any
